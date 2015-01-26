@@ -1,0 +1,20 @@
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\bin\Debug\CompetitiveSpeechProject.exe
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\bin\Debug\CompetitiveSpeechProject.pdb
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.Location.resources
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.Properties.Resources.resources
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.Tournament.resources
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.exe
+c:\users\filipows\documents\visual studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.pdb
+C:\Users\filipows\Documents\Visual Studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.LogIn.resources
+C:\Users\filipows\Documents\Visual Studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.CompetitorInput.resources
+C:\Users\filipows\Documents\Visual Studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\bin\Debug\CompetitiveSpeechProject.exe.config
+C:\Users\filipows\Documents\Visual Studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.Tournament1.resources
+C:\Users\filipows\Documents\Visual Studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.Event.resources
+C:\Users\filipows\Documents\Visual Studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.Rank.resources
+C:\Users\filipows\Documents\Visual Studio 2010\Projects\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.Main.resources
+C:\Users\longuski.MISJ21LAB\Documents\CompetitiveSpeechProjectDB\CompetitiveSpeechProject\CompetitiveSpeechProject\bin\Debug\CompetitiveSpeechProject.exe.config
+C:\Users\longuski.MISJ21LAB\Documents\CompetitiveSpeechProjectDB\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.exe
+C:\Users\longuski.MISJ21LAB\Documents\CompetitiveSpeechProjectDB\CompetitiveSpeechProject\CompetitiveSpeechProject\obj\x86\Debug\CompetitiveSpeechProject.pdb
